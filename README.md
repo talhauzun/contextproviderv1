@@ -1,6 +1,6 @@
-# React.js DataContext 
+# React.js ContextProvider 
 
-**Here is a small project about transferring data from different components to another component using datacontext.**
+**Here is a small project about transferring data from different components to another component using ContextProvider.**
 
 `yarn run`
 
